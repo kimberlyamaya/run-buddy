@@ -77,6 +77,13 @@ section {
     position: relative;
 }
 
+/* styles of hero in privacy policy page */
+/* these two colors will overwrite the above colors in the hero-secondary section only */
+.hero-secondary {
+    background-color: black;
+    color: #fce138;
+}
+
 .hero-form {
     border: solid 3px #024e76;
     background-color:#fce138;
@@ -262,4 +269,5 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
 
